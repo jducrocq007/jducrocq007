@@ -16,6 +16,7 @@ Here is my [Linkedin](https://www.linkedin.com/in/julien-ducrocq-9148b7190/) if 
   _Université de Picardie Jules Verne (UPJV), Modélisation, Information et Systèmes (MIS)_
 
 - In 2018, I have done a 5 months internship where I have designed a Robotic Augmented Reality (**RAR**) interface which displays the slices of a virtual volume in real time.
+  The first version of this interface, where an industrial robot is holding the slice screen, is presented on this [video](https://www.youtube.com/watch?v=HrgdhrxUiss) and the second version, where a carboard is attached to an HTC Vive controller, is shown [here](https://www.youtube.com/watch?v=3r_69DwIFHs). 
 
   _UPJV, MIS and Kyushu University, Laboratory for Image and Media Understanding (LIMU)_
 
