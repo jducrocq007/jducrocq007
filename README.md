@@ -55,15 +55,15 @@ _Nara Institute of Science and Technology (NAIST), Cybernectics and Reality Engi
 
 ### Academic papers 
 
-DUCROCQ, Julien, HIRAO, Yutaro, PERUSQUÍA-HERNÁNDEZ, Monica, et al. **Flexible Virtual Lenses to Magnify Virtual Environments Locally Without Losing Context Information.** In : 2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). IEEE, 2025. p. 1668-1669.
+DUCROCQ, Julien, HIRAO, Yutaro, PERUSQUÍA-HERNÁNDEZ, Monica, et al. **[Flexible Virtual Lenses to Magnify Virtual Environments Locally Without Losing Context Information.](https://ieeexplore.ieee.org/abstract/document/10972995)** In : 2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW). IEEE, 2025. p. 1668-1669.
 
-DUCROCQ, Julien et CARON, Guillaume. **A Survey on Adaptive Cameras.** International Journal of Computer Vision, 2024, vol. 132, no 8, p. 2989-3022.
+DUCROCQ, Julien et CARON, Guillaume. **[A Survey on Adaptive Cameras.](https://link.springer.com/article/10.1007/s11263-024-02025-7)** International Journal of Computer Vision, 2024, vol. 132, no 8, p. 2989-3022.
 
-DUCROCQ, Julien Jean, CARON, Guillaume, MIDAVAINE, Hervé, et al. **VisAdapt: Catadioptric Adaptive Camera for scenes of variable density of visual information.** Applied optics, 2023, vol. 62, no 35, p. 9207-9214.
+DUCROCQ, Julien Jean, CARON, Guillaume, MIDAVAINE, Hervé, et al. **[VisAdapt: Catadioptric Adaptive Camera for scenes of variable density of visual information.](https://opg.optica.org/ao/abstract.cfm?uri=ao-62-35-9207)** Applied optics, 2023, vol. 62, no 35, p. 9207-9214.
 
-DUCROCQ, Julien. **Vision catadioptrique pour favoriser la perception d'environnements hétérogènes.** 2022. Thèse de doctorat. Université de Picardie Jules Verne.
+DUCROCQ, Julien. **[Vision catadioptrique pour favoriser la perception d'environnements hétérogènes.](https://u-picardie.hal.science/tel-04095060/)** 2022. Thèse de doctorat. Université de Picardie Jules Verne.
 
-DUCROCQ, Julien, CARON, Guillaume, et MOUADDIB, El Mustapha. **HDROmni: Optical extension of dynamic range for panoramic robot vision.** IEEE Robotics and Automation Letters, 2021, vol. 6, no 2, p. 3561-3568.
+DUCROCQ, Julien, CARON, Guillaume, et MOUADDIB, El Mustapha. **[HDROmni: Optical extension of dynamic range for panoramic robot vision.](https://ieeexplore.ieee.org/abstract/document/9359341?casa_token=-THO3TDbm_0AAAAA:nOd0t2TG4dyrEMTQKyLs0ZlVr0SnQ1rCSo3gIWPeDBu8slphbi-dK96vbpYHLh1XAhdJiRexfw)** IEEE Robotics and Automation Letters, 2021, vol. 6, no 2, p. 3561-3568.
 
 
 <!---
