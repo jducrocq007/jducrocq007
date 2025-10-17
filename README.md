@@ -3,7 +3,7 @@
 - 👀 I am a **young researcher** specialized in image processing, AR/VR/XR and robotics. 
 - 💞️ I am passionate about **art**, **video games**, **architecture** and **tourism**, and I am willing to contribute on these fields!
 - 🌱 In addition, I am also very sensitive to the **environment** and I would really like to help preventing to destroy our planet.
-- 💻 I am proficient in **Unity**, **C#**, **Python**, **C++**, **Matlab**, **LaTeX** and **Blender**.
+- 💻 I am proficient in **Unity**, **C#**, **Python**, **C++**, **Matlab**, **LaTeX**, **Blender**, **ROS**, **OpenCV**, **Visp** and **Ogre3D**.
 - 🌐 I can speak **French** and **English** fluently. I know a bit of Spanish and the bases of Japanese.
 
 You can download my resume as a pdf file in [French](https://drive.google.com/file/d/1mhEul8Cox0CuNg4z3ax7nLBqOYx0IdXG/view?usp=drive_link) and [English](https://drive.google.com/file/d/1pjoTGhYf3q4KiQJhjROKkYh-AiNaV_Sj/view?usp=sharing).
