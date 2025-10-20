@@ -9,6 +9,7 @@
 You can download my resume as a pdf file in [French](https://drive.google.com/file/d/1mhEul8Cox0CuNg4z3ax7nLBqOYx0IdXG/view?usp=drive_link) and [English](https://drive.google.com/file/d/1pjoTGhYf3q4KiQJhjROKkYh-AiNaV_Sj/view?usp=sharing).
 
 Here is my [Linkedin](https://www.linkedin.com/in/julien-ducrocq-9148b7190/) if you want to reach me and see my news! 
+If you want to know more about my researches, you can also check my [Researchgate](https://www.researchgate.net/profile/Julien-Ducrocq?ev=hdr_xprf).
 
 ### Job experience
 - My very first experience (2016) is a two months research internship where I have measured the latency of a Ricoh Theta S camera.
