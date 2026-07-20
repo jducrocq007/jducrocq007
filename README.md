@@ -12,31 +12,33 @@ Here is my [Linkedin](https://www.linkedin.com/in/julien-ducrocq-9148b7190/) if 
 If you want to know more about my researches, you can also check my [Researchgate](https://www.researchgate.net/profile/Julien-Ducrocq?ev=hdr_xprf).
 
 ### Job experience
-- My very first experience (2016) is a two months research internship where I have measured the latency of a Ricoh Theta S camera.
-  
-  _Université de Picardie Jules Verne (UPJV), Modélisation, Information et Systèmes (MIS)_
 
-- In 2018, I have done a 5 months internship where I have designed a Robotic Augmented Reality (**RAR**) interface which displays the slices of a virtual volume in real time.
-  The first version of this interface, where an industrial robot is holding the slice screen, is presented on this [video](https://www.youtube.com/watch?v=HrgdhrxUiss) and the second version, where a carboard is attached to an HTC Vive controller, is shown [here](https://www.youtube.com/watch?v=3r_69DwIFHs). 
+- **03/2026 - now** _Ecole Nationale Supérieure des Arts et Métiers (ENSAM) - LISPEN lab._
 
-  _UPJV, MIS and Kyushu University, Laboratory for Image and Media Understanding (LIMU)_
+By acquiring, analyzing and processing video sequences, establishing the "skeleton" of professional gestures in mechanics for agriculture within the French project PLAPIMA.
+The goal is to restitute, through several formats, the actual procedure made by the operators in order to create new courses for the next gen of agriculture mechanics experts.
 
-- During my ph. D (2019-2022), I have designed two cameras: 
-  - **HDROmni**, a camera made of 4 mirrors and 3 ND filters able to capture HDR panoramic images of outdoors locations, which allows robot navigation.
-     You can watch [here](https://youtu.be/uFzibmnuKWQ) the video that I have presented to IEEE ICRA 2021.
-  - **Visadapt**, consisting on a camera facing a deformable mirror able to zoom in the key areas of a scene without discarding the rest.
-     You can watch the prototype in action [here](https://www.youtube.com/watch?v=5D_jMuRIBVc).
-    
-  _UPJV, MIS_
-  
+- **05/2023 - 03/2025** _Nara Institute of Science and Technology (NAIST), Cybernectics and Reality Engineering (CARE) lab._
 
-My full ph. D thesis is available [on Hal](https://u-picardie.hal.science/tel-04095060/). 
-
-More recently (2023-2025), I have designed a new interface to zoom-in locally within an image without losing the context, both on a screen and within a VR environment.
+I have designed a new interface to zoom-in locally within an image without losing the context, both on a screen and within a virtual environment on a VR headset.
 You can see a video presenting my IEEE VR 2025 demo [here](https://youtu.be/mMMdJj67vb4).
 
-_Nara Institute of Science and Technology (NAIST), Cybernectics and Reality Engineering (CARE) lab._
+- **10/2019 - 12/2022**  _Université de Picardie Jules Verne (UPJV), Modélisation, Information et Systèmes (MIS)_
 
+During my ph. D (you can read the thesis [on Hal](https://u-picardie.hal.science/tel-04095060/)), I have designed two cameras.
+On the one hand, **HDRomni**, a camera made of 4 mirrors and 3 ND filters able to capture HDR panoramic images of outdoors locations, which allows robot navigation ([here](https://youtu.be/uFzibmnuKWQ), the HDRomni video presented during IEEE ICRA 2021).
+On the other hand, **Visadapt**, consisting on a camera facing a deformable mirror able to zoom in the key areas of a scene without discarding the rest (you can watch the prototype in action [here](https://www.youtube.com/watch?v=5D_jMuRIBVc)).
+
+- **03/2018 - 08/2018**   _UPJV, MIS and Kyushu University, Laboratory for Image and Media Understanding (LIMU)_
+
+During this internship, I have designed a Robotic Augmented Reality (**RAR**) interface which displays the slices of a virtual volume in real time.
+The first version of this interface, where an industrial robot is holding the slice screen, is presented on this [video](https://www.youtube.com/watch?v=HrgdhrxUiss) and the second version, where a carboard is attached to an HTC Vive controller, is shown [here](https://www.youtube.com/watch?v=3r_69DwIFHs). 
+
+- **04/2016** _Université de Picardie Jules Verne (UPJV), Modélisation, Information et Systèmes (MIS)_
+
+My very first research experience is a two weeks research internship where I have measured the latency of a Ricoh Theta S camera.
+  
+  
 ### Education 
 
 - 2019 - 2022 • **Ph. D in Engineer Sciences** (Computer Vision) • UPJV
